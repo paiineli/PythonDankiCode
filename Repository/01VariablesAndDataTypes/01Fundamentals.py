@@ -1,10 +1,10 @@
-#algorithm
+# algorithm
 
-#locate printer
-#check that the printer is switched on
-#connect the printer to my device
-#open a file on my device
-#request printing
+# locate printer
+# check that the printer is switched on
+# connect the printer to my device
+# open a file on my device
+# request printing
 
 print("Hello World!")
 

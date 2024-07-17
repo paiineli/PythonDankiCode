@@ -1,12 +1,11 @@
-#int = integers = ....-3, -2, -1, 0, 1, 2, 3...
+# int = integers = ....-3, -2, -1, 0, 1, 2, 3...
 
-1 #int
+x = 1  # int
 
-#float =  -3, -3.4, -2, 5, 6.3
+# float =  -3, -3.4, -2, 5, 6.3
 
-1.0 #float
-1.
+y = 1.0  # float
 
-#complex
+# complex
 
-1+2j #complex
+z = 1 + 2j  # complex

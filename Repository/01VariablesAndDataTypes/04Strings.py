@@ -12,7 +12,7 @@ I hope you enjoy it"""
 
 print(a)
 
-#string methods
+# string methods
 
 b = " Hello World "
 print(b)
