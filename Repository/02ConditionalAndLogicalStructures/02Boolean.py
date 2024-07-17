@@ -18,3 +18,24 @@ and (e)
 or (ou)
 not (negação)
 """
+
+"""
+True table
+
+----and
+True and True = True
+True and False = False
+False and True = False
+False and False = False
+
+----or
+True and True = True
+True and False = True
+False and True = True
+False and False = False
+
+----not
+not True
+not False
+
+"""
