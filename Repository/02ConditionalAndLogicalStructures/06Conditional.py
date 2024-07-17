@@ -15,4 +15,3 @@ else:
     print("x equals y")
 
 print("code outside conditional block")
-#te
